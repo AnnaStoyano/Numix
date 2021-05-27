@@ -1,0 +1,288 @@
+[{
+      "range": {
+         "min": 1,
+         "max": 4
+      },
+      "entries": [{
+            "entry": "яблука",
+            "count": 1,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 2,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 3,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 4,
+            "img": "./images/apple.svg"
+         }
+      ]
+   },
+   {
+      "range": {
+         "min": 1,
+         "max": 5
+      },
+      "entries": [{
+            "entry": "яблука",
+            "count": 1,
+            "img": "./images/Carrot.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 2,
+            "img": "./images/Carrot.svg"
+         }, {
+            "entry": "яблука",
+            "count": 3,
+            "img": "./images/Carrot.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 4,
+            "img": "./images/Carrot.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 5,
+            "img": "./images/Carrot.svg"
+         }
+      ]
+   },
+   {
+      "range": {
+         "min": 1,
+         "max": 6
+      },
+      "entries": [{
+            "entry": "яблука",
+            "count": 1,
+            "img": "./images/tomato.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 2,
+            "img": "./images/tomato.svg"
+         }, {
+            "entry": "яблука",
+            "count": 3,
+            "img": "./images/tomato.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 4,
+            "img": "./images/tomato.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 5,
+            "img": "./images/tomato.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 6,
+            "img": "./images/tomato.svg"
+         }
+      ]
+   },
+   {
+      "range": {
+         "min": 1,
+         "max": 7
+      },
+      "entries": [{
+            "entry": "яблука",
+            "count": 1,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 2,
+            "img": "./images/apple.svg"
+         }, {
+            "entry": "яблука",
+            "count": 3,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 4,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 5,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 6,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 7,
+            "img": "./images/apple.svg"
+         }
+      ]
+   },{
+      "range": {
+         "min": 1,
+         "max": 8
+      },
+      "entries": [{
+            "entry": "яблука",
+            "count": 1,
+            "img": "./images/tomato.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 2,
+            "img": "./images/tomato.svg"
+         }, {
+            "entry": "яблука",
+            "count": 3,
+            "img": "./images/tomato.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 4,
+            "img": "./images/tomato.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 5,
+            "img": "./images/tomato.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 6,
+            "img": "./images/tomato.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 7,
+            "img": "./images/tomato.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 8,
+            "img": "./images/tomato.svg"
+         }
+      ]
+   },
+   {
+      "range": {
+         "min": 1,
+         "max": 9
+      },
+      "entries": [{
+            "entry": "яблука",
+            "count": 1,
+            "img": "./images/cucumber.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 2,
+            "img": "./images/cucumber.svg"
+         }, {
+            "entry": "яблука",
+            "count": 3,
+            "img": "./images/cucumber.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 4,
+            "img": "./images/cucumber.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 5,
+            "img": "./images/cucumber.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 6,
+            "img": "./images/cucumber.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 7,
+            "img": "./images/cucumber.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 8,
+            "img": "./images/cucumber.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 9,
+            "img": "./images/cucumber.svg"
+         }
+      ]
+   },
+   {
+      "range": {
+         "min": 1,
+         "max": 10
+      },
+      "entries": [{
+            "entry": "яблука",
+            "count": 1,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 2,
+            "img": "./images/apple.svg"
+         }, {
+            "entry": "яблука",
+            "count": 3,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 4,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 5,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 6,
+            "img": "./images/apple.svg"
+         }, {
+            "entry": "яблука",
+            "count": 7,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 8,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 9,
+            "img": "./images/apple.svg"
+         },
+         {
+            "entry": "яблука",
+            "count": 10,
+            "img": "./images/apple.svg"
+         }
+      ]
+   }
+
+]

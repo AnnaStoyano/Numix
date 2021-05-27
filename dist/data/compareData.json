@@ -1,0 +1,87 @@
+[
+    {
+       "condition":"Чого більше?",
+       "sign":">",
+       "entries":[
+          {
+             "count":2,
+             "pointForOne":1,
+             "img":"./images/pie.svg"
+          },
+          {
+             "count":3,
+             "pointForOne":1,
+             "img":"./images/pie.svg"
+          }
+       ],
+       "extraInfo":""
+    },
+    {
+       "condition":"Чого менше?",
+       "sign":"<",
+       "entries":[
+          {
+             "count":4,
+             "pointForOne":1,
+             "img":"./images/apple.svg"
+          },
+          {
+             "count":3,
+             "pointForOne":1,
+             "img":"./images/apple.svg"
+          }
+       ],
+       "extraInfo":""
+    },
+    {
+       "condition":"Чого більше?",
+       "sign":">",
+       "entries":[
+          {
+             "count":2,
+             "pointForOne":3,
+             "img":"./images/orange.svg"
+          },
+          {
+             "count":1,
+             "pointForOne":3,
+             "img":"./images/orange.svg"
+          }
+       ],
+       "extraInfo":""
+    },
+    {
+       "condition":"Чого менше?",
+       "sign":"<",
+       "entries":[
+          {
+             "count":2,
+             "pointForOne":1,
+             "img":"./images/apple.svg"
+          },
+          {
+             "count":1,
+             "pointForOne":3,
+             "img":"./images/orange.svg"
+          }
+       ],
+       "extraInfo":"Один апельсин дорівнює 3 яблукам"
+    },
+    {
+       "condition":"Чого більше?",
+       "sign":">",
+       "entries":[
+          {
+             "count":3,
+             "pointForOne":1,
+             "img":"./images/orange.svg"
+          },
+          {
+             "count":2,
+             "pointForOne":2,
+             "img":"./images/pie.svg"
+          }
+       ],
+       "extraInfo":"Один шматочок пирога дорівнює 2 апельсинам"
+    }
+]
